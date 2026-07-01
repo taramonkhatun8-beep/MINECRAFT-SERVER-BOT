@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "FireSMP-tjKp.aternos.me",
+    "ip": "playtotemsmp.aternos.me",
     "port": 22317,
     "version": "1.20.1",
     "try-creative": false
